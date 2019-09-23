@@ -1,13 +1,6 @@
-# Toybox Hugo Documentaion
+# Hugo Shell Documentaion
 
-## Getting Start
-
-### Initialize Hugo Site
-```bash
-sh bin/init.sh
-```
-
-### Start Hugo server
+## Start Hugo server
 ```bash
 cd site
 docker-compose up -d
